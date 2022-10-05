@@ -50,6 +50,7 @@
         
     }
     .footer{
+        
         height: 520px;
         top: 150px;
         text-align: center;
@@ -62,7 +63,8 @@
     padding: 3px;
     }
     .numero{
-        text-align: justify;  
+        text-align: left;
+    padding-left: 10px;
         font-size: 20px;
     opacity: 0.8;
     }
@@ -81,7 +83,8 @@
     .sectopas{
         top: 170px;
         height: 580px;
-        text-align: justify;
+        text-align: left;
+        padding-left: 10px;
         position: relative;
         bottom: 0;
     }
