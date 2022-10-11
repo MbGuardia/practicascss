@@ -26,6 +26,6 @@ span{
     text-shadow: 0 0 5px black;
 }
 .cajita:hover{
-    transform: :scale(1.05);
+    transform: scale(1.05);
     border: 2px double #3673e4 ;
 }
