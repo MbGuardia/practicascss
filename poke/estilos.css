@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+
+
+    background: rgb(201,224,251);
+    background: radial-gradient(circle, rgba(201,224,251,1) 0%, rgba(0,37,214,1) 100%);
+font-family: 'Devonshire', cursive;
+text-align: center;
+
+}
+#Resultado{
+    width: 100%;
+    border-radius: 10px;
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-template-rows: minmax(200px, auto) ;
+    gap: 20px;
+    }
+    .poke{
+        background: #79fffc;
+        border-radius: 20px;
+        padding: 20px;
+    }

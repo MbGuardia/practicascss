@@ -17,14 +17,7 @@ body{
     align-items: center;
     justify-content: center;
 }
-
-#Resultado{
-    width: 100%;
-    border-radius: 10px;
-    display: grid;
-    grid-template-columns: repeat(1,5fr);
-    }
-    .proti{
+    .frase{
         background: rgb(3,48,1);
         background: linear-gradient(90deg, rgba(3,48,1,1) 0%, rgba(84,99,0,1) 100%);
         border-radius: 20px;
